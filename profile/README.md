@@ -6,7 +6,10 @@ KlarPatch korrigiert klar abgegrenzte Probleme an bestehenden Websites - mit Sch
 - responsive Darstellungsfehler
 - Formulare, Navigation, Tastaturbedienung und Fokusführung
 - kleinere WordPress-Probleme im Frontend
+- kleine Inhaltsaktualisierungen: gelieferte Texte und Bilder, Öffnungszeiten, Kontaktdaten, Preislisten, Downloads und fehlerhafte Links
 - statische Landingpages aus vollständig geliefertem Desktop- und Mobil-Design
+
+Inhaltsaktualisierungen erfolgen nach technischer Prüfung und schriftlicher Vereinbarung von Umfang und Kostenobergrenze. Die betroffenen Seiten werden auf Computer und Smartphone geprüft und die Änderungen kurz dokumentiert. Keine pauschale Wartung oder laufende Sicherheitsbetreuung. Die Zusammenarbeit erfolgt für Auftraggeber in Deutschland vollständig remote und schriftlich.
 
 ## Technische Arbeitsproben
 
