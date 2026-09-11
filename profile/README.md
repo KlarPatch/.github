@@ -16,6 +16,12 @@ KlarPatch korrigiert klar abgegrenzte Probleme an bestehenden Websites - mit Sch
 Inhaltsaktualisierungen erfolgen nach technischer Prüfung und schriftlicher Vereinbarung von Umfang und Kostenobergrenze. Die betroffenen Seiten werden auf Computer und Smartphone geprüft und die Änderungen kurz dokumentiert. Keine pauschale Wartung oder laufende Sicherheitsbetreuung. Die Zusammenarbeit erfolgt für Auftraggeber in Deutschland vollständig remote und schriftlich.
 
 
+## Bestehende WordPress-Websites ergänzen
+
+Einzelne Unterseiten und Seitenabschnitte im vorhandenen Design sowie gezielte Elementor-Anpassungen an Texten, Bildern, Abständen und mobiler Anordnung. Grundlage sind gelieferte Inhalte, eine technische Prüfung und schriftlich vereinbarter Umfang. 45 Euro je tatsächlich geleisteter vereinbarter Stunde mit vorheriger schriftlicher Kostenobergrenze, nicht im 249-Euro-Fix-Sprint enthalten. Mit Nachtest und dokumentierter Übergabe, ohne laufende technische Wartung.
+
+Der [Elementor-Nachweis](https://www.klarpatch.de/arbeitsprobe#wordpress-elementor) zeigt ein fiktives lokales Technikermuster, keine Kundenreferenz. Er ist vom eingeschränkten Gutenberg-Kundeneditor des CMS-Piloten getrennt.
+
 ## Kleine statische Firmenwebsite
 
 
