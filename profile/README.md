@@ -22,6 +22,12 @@ Einzelne Unterseiten und Seitenabschnitte im vorhandenen Design sowie gezielte E
 
 Der [Elementor-Nachweis](https://www.klarpatch.de/arbeitsprobe#wordpress-elementor) zeigt ein fiktives lokales Technikermuster, keine Kundenreferenz. Er ist vom eingeschränkten Gutenberg-Kundeneditor des CMS-Piloten getrennt.
 
+## SEO-Grundkorrekturen an bestehenden Websites
+
+Seitentitel und Beschreibungen überarbeiten, interne Verlinkung und Struktur prüfen und vereinbarte Bilddateien technisch optimieren. Nach Prüfung des konkreten Systems: schriftlich vereinbarte Änderungen, Nachtest und dokumentierter Rücknahmeweg. 45 Euro je tatsächlich geleisteter vereinbarter Stunde mit schriftlicher Kostenobergrenze; nicht Teil des 249-Euro-Fix-Sprints.
+
+Kein Rankingversprechen, keine laufende SEO-Betreuung. Der technische Nachweis stammt aus einem lokalen fiktiven HTML-Muster, nicht aus Kundenprojekten oder einer allgemeinen Prüfung von WordPress-SEO-Plugins.
+
 ## Kleine statische Firmenwebsite
 
 
